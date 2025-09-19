@@ -4,7 +4,7 @@ Open-source contributions and learning logs from the India RISC-V Reference SoC 
 
 ## 🙏 Acknowledgment  
 
-I am grateful to **Kunal Ghosh** and the **VLSI System Design (VSD) team** for providing me with the opportunity to participate in the **RISC-V SoC Tapeout Program**.  
+I am grateful to [**Kunal Ghosh**](https://github.com/kunalg123) and Team **[VLSI System Design (VSD)](https://vsdiat.vlsisystemdesign.com/)** for providing me with the opportunity to participate in the **RISC-V SoC Tapeout Program**.  
 
 I would also like to acknowledge the support and contributions of:  
 - **RISC-V International**  
